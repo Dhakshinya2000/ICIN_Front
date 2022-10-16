@@ -1,0 +1,9 @@
+.container{
+    background-color: rgba(13, 13, 14, 0.178);
+}
+
+img{
+    position: fixed;
+    height: auto;
+    width: 25px;
+}
